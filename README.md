@@ -16,7 +16,7 @@ This is my github profile
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Front-end devolopment ✍️
-- Backen-end devolopement
+- Back-end devolopement
 - Web devolopement
     
 🛠**Tech Stack**
