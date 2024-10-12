@@ -7,13 +7,13 @@ This is my github profile
 
 
 
-### Hi there, I'am Chinna Hanumanna👋
+### Hi there, I'am Chinna👋
 
 - 🎯 Portfolio website: [Portfolio](https://chinnahanumanna.github.io/Chinna-s-portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it,
--    It's my Sincere Request🤓
+-    This is my request..
 
-💻 **Things I love**
+💻 **Intrested in**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Front-end devolopment ✍️
 - Back-end devolopement
@@ -36,4 +36,4 @@ This is my github profile
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinna-hanumanna-64974522b/)
--Gmail : chinnsmart125@gmail.com
+-Gmail : chinnahanuman45@gmail.com
