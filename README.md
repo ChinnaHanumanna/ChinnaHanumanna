@@ -10,8 +10,7 @@ This is my github profile
 ### Hi there, I'am Chinna👋
 
 - 🎯 Portfolio website: [Portfolio](https://chinnahanumanna.github.io/Chinna-s-portfolio/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it,
--    This is my request..
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it, this is my request..
 
 💻 **Intrested in**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
