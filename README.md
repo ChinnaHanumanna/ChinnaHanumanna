@@ -15,7 +15,7 @@ This is my github profile
 
 💻 **Intrested in**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Front-end devolopment ✍️
+- Front-end devolopment
 - Back-end devolopement
 - Web devolopement
     
