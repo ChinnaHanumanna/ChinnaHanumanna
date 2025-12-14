@@ -22,12 +22,14 @@ This is my github profile
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![DjangoRest](https://img.shields.io/badge/-DjangoRest-000000?style=flat&logo=DjangoRest)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)]
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat&logo=CSS3)]
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Postgresql](https://img.shields.io/badge/-postgresql-000000?style=flat&logo=Postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-git-000000?style=flat&logo=git)
 
 
 <!-- Contact Section -->
