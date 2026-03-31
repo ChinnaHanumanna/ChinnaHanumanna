@@ -1,6 +1,6 @@
 
 # Chinna
-This is my github profile 
+This is my github profile
 
 
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
@@ -10,13 +10,14 @@ This is my github profile
 ### Hi there, I'am Chinna👋
 
 - 🎯 Portfolio website: [Portfolio](https://chinnahanumanna.github.io/Chinna-s-portfolio/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it 
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it
 
 💻 **Intrested in**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Front-end devolopment
 - Back-end devolopement
 - Web devolopement
+- Database
     
 🛠**Tech Stack**
 
