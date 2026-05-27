@@ -28,9 +28,6 @@ Junior Python Full Stack Developer passionate about building real-world web appl
 ## 📫 Reach Me
 - 📧 Email: chinnahanuman45@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/chinna-hanumanna-64974522b/
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://chinnahanumanna.github.io/portfolio/
 - 🖥️ GitHub: https://github.com/ChinnaHanumanna
 
-## 📌 Projects
-- E-Commerce Web Application
-- News Aggregator Web Application
