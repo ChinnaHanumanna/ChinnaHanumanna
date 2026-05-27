@@ -12,6 +12,7 @@ Junior Python Full Stack Developer passionate about building real-world web appl
 - HTML
 - CSS
 - JavaScript
+- REST API
 - VS code
 - Git & GitHub
 
@@ -19,6 +20,7 @@ Junior Python Full Stack Developer passionate about building real-world web appl
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/RESTAPI-100000?style=for-the-badge&logo=RESTAPI&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
