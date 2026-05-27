@@ -24,6 +24,7 @@ Junior Python Full Stack Developer passionate about building real-world web appl
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/VScode-100000?style=for-the-badge&logo=vscode&logoColor=white)
 
 ## 📫 Reach Me
 - 📧 Email: chinnahanuman45@gmail.com
